@@ -20,7 +20,7 @@
 
 ---
 
-### 📌 Créez une nouvelle branche `operations` :
+### 📌 Créez une nouvelle branche `commandes` :
 
 ![Création de la branche commandes](https://i.imgur.com/kKyB9zy.png)
 
@@ -28,8 +28,8 @@
 
 ### 📌 On voit qu'une nouvelle branche a été créée.
 Maintenant :
-- Changez de branche (`git switch operations`)
-- Mettez-y le contenu du dossier `operations` qu'il y avait dans le repo qu'on a téléchargé précédemment.
+- Changez de branche (`git switch commandes`)
+- Mettez-y le contenu du dossier `commandes` qu'il y avait dans le repo qu'on a téléchargé précédemment.
 
 ![Ajout dans la branche commandes](https://i.imgur.com/PNCEakI.png)
 
